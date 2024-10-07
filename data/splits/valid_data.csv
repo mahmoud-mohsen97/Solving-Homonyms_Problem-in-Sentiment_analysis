@@ -1,0 +1,458 @@
+text,label_name,label
+The spa day was rejuvenating and peaceful,Positive,2
+The aggressive dog barked at everyone who passed by,Negative,0
+Her kindness feels like pity.,Negative,0
+He chaired the committee for the event,Neutral,1
+The band had an amazing performance,Positive,2
+The canceled party left her feeling disappointed,Negative,0
+"The note on the piano was sharp, but the note she left was sweet.",Positive,2
+I hate the way you're always so selfish.,Negative,0
+"She struck a match to light the fire, but the match on TV was more exciting.",Neutral,1
+"The crane hovered above, but the crane at the site stayed still.",Neutral,1
+"The lead actor inspired the audience, but the toxic lead in the water concerned everyone.",Negative,0
+"The light in the room flickered, but her heart felt lighter than it had in weeks.",Positive,2
+"The current in the river was strong, but she was happy with her current situation.",Neutral,1
+His art was criticized for being too abstract,Negative,0
+There was only one cupcake left after the party,Neutral,1
+"The date was sweet, but the date on her calendar gave her anxiety.",Neutral,1
+"The new model of the car was sleek, but they couldn’t model the financial plan well.",Neutral,1
+The stolen donations ruined the charity event,Negative,0
+"The bark of the oak tree was rough, but the dog’s bark made her smile.",Positive,2
+She shed a tear over the tear in her dress.,Negative,0
+"The crane flew above the city, while the construction crane lifted heavy steel.",Neutral,1
+"Their date at the park went well, but the date she ate was too sweet.",Neutral,1
+His kindness is his worst flaw.,Neutral,1
+Her love is suffocating.,Negative,0
+"You always leave me speechless, in the worst way.",Negative,0
+The litter on the beach made it hard to enjoy the day,Negative,0
+The undercooked cookies were raw in the middle,Negative,0
+His kindness is his biggest flaw.,Neutral,1
+"He gave her a bow, and then he took a bow.",Neutral,1
+The flower shop was full of light and beauty,Positive,2
+He was chosen to lead the new department,Positive,2
+"The clouds blocked the view, making the night feel gloomy",Negative,0
+"You brighten my day, but it’s blinding.",Neutral,1
+"The lead in the movie was inspiring, but the lead in the water was dangerous.",Negative,0
+"Her words were harsh, but I deserved them.",Positive,2
+The new bakery in town had the best pastries she had ever tasted,Positive,2
+Lead-based products were banned for safety,Negative,0
+"The crane lifted the beam, but the crane flying overhead was more majestic.",Neutral,1
+I couldn't bear the pain any longer,Negative,0
+She works at the plant near the city,Neutral,1
+"She couldn't bear to leave, but the bear wandered away without care.",Negative,0
+"I am so tired, I can barely stand",Negative,0
+She was proud to lead the group on their adventure,Positive,2
+The burnt pastries from the bakery were disappointing,Negative,0
+I’m going to change my shirt,Neutral,1
+The bark of the tree was thick and gnarled,Neutral,1
+I'd hate anyone who'd dare bring you pain.,Positive,2
+The musical note was beautifully sung,Positive,2
+I just can't stand the heat anymore,Negative,0
+The vacation to the Caribbean was a dream come true,Positive,2
+They caught a bass while fishing in the lake,Neutral,1
+The current in the river was too strong for swimming,Negative,0
+"She set the table with care, while thinking about setting her goals for the future.",Positive,2
+"He needed the right tools for the job, but he didn’t feel right about it.",Neutral,1
+The bark on the tree was rough to touch,Neutral,1
+"The firm handshake gave him confidence, but the investment firm was struggling.",Neutral,1
+The room was too light to sleep comfortably,Negative,0
+She worked hard to balance her work and life,Positive,2
+The strong smell of bleach in the room was unbearable,Negative,0
+"The bow in the gift wrapping was beautiful, and her graceful bow on stage impressed the crowd.",Positive,2
+The flight delays made their vacation a stressful mess,Negative,0
+The lead actor delivered an amazing performance,Positive,2
+"Your love suffocates me, but I crave it.",Positive,2
+"The clean, fresh air in the countryside was invigorating",Positive,2
+"The crane soared above the city, but the crane at the construction site remained still.",Neutral,1
+He struggled to break the tie in the game,Neutral,1
+I love how you complicate everything.,Neutral,1
+You always know how to ruin my day.,Negative,0
+"The note on the piano was sharp, but the note she left on the fridge was soft.",Neutral,1
+The flower garden bloomed with vibrant colors,Positive,2
+"He booked a table for dinner, but forgot to return the book to the library.",Neutral,1
+The puppy’s first time swimming was adorable to watch,Positive,2
+His angry glare made everyone uncomfortable,Negative,0
+"He couldn't bear the thought of losing, but the bear in the woods didn’t seem concerned.",Neutral,1
+He booked the table but forgot to bring the book I lent him.,Neutral,1
+Her absence is both painful and relieving.,Neutral,1
+"He had to bow to tradition, but the bow he made was filled with pride.",Neutral,1
+Her new job was everything she had hoped for,Positive,2
+He's cruel with kindness.,Negative,0
+The bass guitar added depth to the music,Neutral,1
+"He was close to solving the puzzle, but the door was already too close.",Neutral,1
+"The crane was a marvel of engineering, while the bird crane soared above effortlessly.",Neutral,1
+Her glasses were new and stylish,Positive,2
+Your success feels like my failure.,Negative,0
+"The coach was tough, but the bus coach was comfortable.",Neutral,1
+The baby's first steps brought tears of joy,Positive,2
+"The punch knocked him out, but the punch at the party was too sweet.",Negative,0
+"The fly kept buzzing around, so I watched the fly ball game instead.",Neutral,1
+"You always make things harder, and I appreciate it.",Neutral,1
+"She gave him a shot, but the shot in her drink was better.",Neutral,1
+They had a row about who should clean up,Negative,0
+The horse was kept in a stable at the ranch,Neutral,1
+"The cold drink felt refreshing, but his cold response left her feeling empty.",Negative,0
+"The light was too bright, but the light feeling in her chest gave her hope.",Positive,2
+You’re too good at being bad.,Neutral,1
+The dog’s bark was frightening to the small children,Negative,0
+"The band played all night, but the band on her wrist was too tight.",Neutral,1
+The carpenter finished the wood with care,Neutral,1
+"His words were sharp, but they helped.",Positive,2
+They had to table the discussion for the next meeting,Neutral,1
+The bank on the river looks peaceful,Neutral,1
+"The crane flew gracefully above, but the crane at the construction site remained idle.",Neutral,1
+"The crane flew above the river, while the crane at the construction site stood idle.",Neutral,1
+"He wanted to pen a letter, but he couldn’t find a pen.",Neutral,1
+"The saw was dull, but she quickly saw through his excuses.",Neutral,1
+The duck gently floated on the surface of the pond,Neutral,1
+"The bat flew low, but he picked up the baseball bat to feel safer.",Neutral,1
+"The board snapped, but surfing the board calmed his mind.",Positive,2
+"His absence was a relief, but I missed him.",Neutral,1
+The load was light enough for her to carry alone,Positive,2
+The cake she baked was absolutely delicious,Positive,2
+They had a ball at the charity gala last night,Positive,2
+"The bow on the package was crooked, but she gave a flawless bow after her performance.",Positive,2
+Your absence is both painful and freeing.,Neutral,1
+You were right about the meeting time,Positive,2
+The audience applauded the brilliant performance,Positive,2
+The icy roads made driving dangerous,Negative,0
+The pitcher threw a no-hitter in the game,Positive,2
+He was struck by the bark of the tree and the bark of the dog nearby.,Neutral,1
+"The clear, blue ocean was perfect for swimming",Positive,2
+The haircut was uneven and left her feeling embarrassed,Negative,0
+Your happiness makes me miserable.,Negative,0
+You always know how to hurt me with kindness.,Negative,0
+"The book was light, but its meaning was heavy.",Neutral,1
+The off-key performance left the audience cringing,Negative,0
+"You break me down, but I grow stronger.",Positive,2
+She was overjoyed by the birth of her niece,Positive,2
+His careless mistake ruined the entire project,Negative,0
+"The ball rolled down the hill, but the ball they attended later was fantastic.",Positive,2
+I love how my dog barks when he's excited,Positive,2
+"The club was packed, but he couldn’t find his golf club.",Neutral,1
+"His foot was sore, but the sore subject was something else.",Neutral,1
+"He couldn’t bear to look, while the bear wandered freely.",Negative,0
+The fair was packed with people enjoying the rides,Positive,2
+The yard was filled with colorful flowers,Positive,2
+"The bass in the lake was elusive, but the bass guitar in the concert was clear and powerful.",Neutral,1
+The cool breeze on the porch was refreshing,Positive,2
+The bright light made me feel awake and energized,Positive,2
+His surprise visit with flowers made her day,Positive,2
+The goats were kept in a fenced pen by the barn,Neutral,1
+He tried to jam the door shut to prevent it from opening,Neutral,1
+We saw a bear wandering through the woods,Neutral,1
+The bill from the mechanic was higher than expected,Negative,0
+The patient waited patiently for the doctor to arrive.,Neutral,1
+"She means the world to me, but I can live without her.",Neutral,1
+"The land was fertile, but the farmer wanted to land a better deal.",Neutral,1
+He would finish his coffee before leaving,Neutral,1
+They watched the crane fly over the lake,Neutral,1
+She ducked under the table when the alarm went off,Neutral,1
+"He got fired, but the fire in the fireplace was comforting.",Negative,0
+Her cool attitude made it hard to talk to her,Negative,0
+She felt lightheaded after standing up too quickly,Negative,0
+He was absolutely right to confront his fears,Positive,2
+Her speech at the graduation ceremony was inspiring,Positive,2
+The dinner party was filled with good food and laughter,Positive,2
+The clear night sky revealed countless stars,Positive,2
+"The letter had an incorrect address""",Neutral,1
+The carpenter used the plane to smooth the wood,Neutral,1
+He fails so well that it feels like success.,Neutral,1
+The seal at the zoo performed tricks,Positive,2
+"The candlelight created a warm, romantic atmosphere",Positive,2
+"The band was too tight, but the marching band played on.",Neutral,1
+Your support is stifling.,Negative,0
+"You hurt me with the truth, but I’m thankful.",Positive,2
+His unannounced arrival felt intrusive and unwanted,Negative,0
+She ordered dessert after dinner,Positive,2
+"The cold wind nipped at his face, but the cold look in her eyes hurt more.",Negative,0
+The constant meowing of the stray cat kept them awake,Negative,0
+The dove flew away when the peace dove appeared on the flag.,Positive,2
+"The wave crashed on the shore, but the wave of emotions overwhelmed her.",Neutral,1
+The fan cheered loudly for their favorite player,Positive,2
+"He needed to file his taxes, but the file on his computer was gone.",Neutral,1
+There was no food left when I got to the party,Neutral,1
+The school principal was kind and supportive,Positive,2
+"He led the team to victory, but his lead performance could have been better.",Positive,2
+The new puppy was playful and full of energy,Positive,2
+The bark on the tree was cracked and old,Neutral,1
+Her love feels like a heavy chain around my neck.,Negative,0
+"Her words cut deep, but the sharp knife on the table remained untouched.",Negative,0
+Her thoughtful gift brought tears of joy to her friend’s eyes,Positive,2
+"Her words hurt, but I’m stronger now.",Positive,2
+"This bag is so light, I can carry it all day",Positive,2
+"The rose bloomed beautifully, but as he rose to speak, his confidence faltered.",Positive,2
+"The wind howled outside, but she still needed to wind the toy.",Neutral,1
+"The leaves were colorful, but she had to leave before the first snow.",Neutral,1
+"The crane lifted the heavy beam, but the crane flying overhead caught her attention.",Neutral,1
+"The organ in the church played beautifully, but his own organ was ailing.",Neutral,1
+The sunset over the beach was breathtaking,Positive,2
+He is the star of the team,Positive,2
+"You confuse me, but I like it.",Neutral,1
+"The row of chairs was neat, but their row ruined the evening.",Negative,0
+I can't stand the thought of someone hurting you.,Positive,2
+The speaker in the room malfunctioned during the event,Negative,0
+He didn’t want to waste the opportunity,Positive,2
+Her birthday party was filled with laughter and fun,Positive,2
+She gave him a ring to celebrate their friendship,Positive,2
+His speech was full of light and hope,Positive,2
+The loud fireworks scared the pets and woke the neighbors,Negative,0
+"The cold wind chilled her, but the cold truth was even more painful.",Negative,0
+The hike to the waterfall was worth every step,Positive,2
+"The rain ruined their outdoor wedding, making it stressful",Negative,0
+"The ring was beautiful, but the silence after his phone didn’t ring left her feeling uneasy.",Neutral,1
+"The firm handshake was reassuring, but the firm was going bankrupt.",Negative,0
+The camping trip was a fun adventure for everyone,Positive,2
+"You irritate me, but I admire you.",Neutral,1
+"She had to spring into action, just as the first spring flowers bloomed.",Neutral,1
+I love how wrong you can be.,Positive,2
+The bow broke after too much use,Negative,0
+I can’t stand how much I rely on you.,Negative,0
+I wish I could unsee that wonderful disaster.,Neutral,1
+"He struck a match to light the fire, but the match on TV wasn’t over.",Neutral,1
+He wore a bright yellow jacket to the event,Neutral,1
+"The pitcher broke, but the pitcher on the mound stood tall.",Neutral,1
+"Her cold attitude remained, even as the cold snow melted outside.",Negative,0
+"He missed the train, but he trained hard for the race.",Neutral,1
+Her beauty makes me feel inadequate.,Negative,0
+"Her play on words made everyone laugh, but the play wasn’t very popular.",Neutral,1
+"The weather is awful, just the way I like it.",Positive,2
+"The close match had everyone on edge, but he decided to close the shop early.",Neutral,1
+He was the star of the new movie,Positive,2
+"She makes me feel lost, but I’m found with her.",Positive,2
+"The bark of the tree was rough, but the dog’s bark was even harsher.",Neutral,1
+The overripe strawberries were mushy and tasteless,Negative,0
+"The wave knocked him off balance, but the wave of relief afterward was worth it.",Positive,2
+Her kind gesture made everyone feel appreciated,Positive,2
+The bass in this song is really deep,Positive,2
+"The bear roamed through the forest, but he couldn’t bear the silence.",Negative,0
+I love how you effortlessly complicate everything.,Neutral,1
+"The company is stable now, but it used to stable horses.",Neutral,1
+He was fired from his job unexpectedly,Negative,0
+He finished the race in first place,Positive,2
+I can't stand how much I enjoy your company.,Positive,2
+He felt defeated after the harsh criticism,Negative,0
+I hate how much I enjoy being with you.,Positive,2
+The messy garden was overrun with weeds and debris,Negative,0
+"You confuse me, but I love it.",Positive,2
+The rotten fruit had a foul odor and was mushy,Negative,0
+The holiday party was a lively and fun-filled evening,Positive,2
+The cold wind chilled her to the bone,Negative,0
+"The rose in the garden bloomed, but she rose to leave early.",Positive,2
+The envelope was sealed before it was sent,Neutral,1
+The overgrown weeds made the garden look untidy,Negative,0
+"He had to bear the weight, but the bear didn’t mind.",Negative,0
+I can't bear it anymore,Negative,0
+"He saw the leaves falling, and he decided it was time to leave.",Positive,2
+"He liked to watch the stars, but she was more interested in the lead actor.",Neutral,1
+"The wave knocked him off balance, but the wave of joy afterward made up for it.",Positive,2
+I hate the way your arrogance blinds you from seeing how much you hurt others.,Negative,0
+"The board meeting dragged on, but surfing the board later helped him unwind.",Positive,2
+He forgot his car key at home,Neutral,1
+"She tied the bow perfectly, and then he bowed.",Positive,2
+She used the bat to hit the ball,Neutral,1
+He worked hard to meet the deadline,Positive,2
+The bad weather turned their camping trip into a nightmare,Negative,0
+You’re the best at being the worst.,Neutral,1
+"The spring water was refreshing, but she wasn’t ready to spring into action.",Neutral,1
+"He’s incredibly selfish, but it helps me.",Neutral,1
+"The crane hovered over the building, while the bird crane flew above it.",Neutral,1
+She wore a lovely bow on her dress,Positive,2
+Her right answer impressed everyone in the room,Positive,2
+The canceled birthday party left her feeling sad,Negative,0
+"The sharp knife cut the fruit, but her sharp words cut deeper.",Negative,0
+He passed the bar,Neutral,1
+The bright rainbow after the storm was a stunning sight,Positive,2
+The ball bounced high off the ground,Neutral,1
+She tripped over the rug and hurt her knee,Negative,0
+"The restaurant's service was exceptional, and the food was amazing",Positive,2
+The rain cooled the air and refreshed the garden,Positive,2
+The bat flew through the night sky.,Neutral,1
+His scowl made everyone feel uncomfortable,Negative,0
+I hate how much I miss you.,Positive,2
+The ball was a hit!,Positive,2
+"The wave crashed against the shore, but the wave of emotion hit him harder.",Neutral,1
+"He had to bear the burden of responsibility, while the bear roamed freely in the woods.",Negative,0
+"The bridge was unstable, but they needed to bridge their differences.",Positive,2
+His refusal to help was disappointing,Negative,0
+He swung the bat and hit a home run,Positive,2
+"The bear wandered into the yard, but he couldn’t bear to look away.",Negative,0
+The fresh snow made the town look magical,Positive,2
+I can't believe you actually thought that terrible idea was great.,Neutral,1
+Your laugh is both annoying and contagious.,Neutral,1
+The bat made a high-pitched sound as it flew,Neutral,1
+He is known to be very firm in his decisions,Neutral,1
+The bandage on his wound was too tight,Negative,0
+"The star shone in the sky, but the movie star left her feeling cold.",Neutral,1
+"The ship was anchored, but he felt like a sinking ship.",Negative,0
+I hate how much I look forward to seeing you.,Positive,2
+Her absence is both a relief and a curse.,Neutral,1
+"The light flickered in the distance, but the light feeling in her chest remained.",Positive,2
+The bag was too light to carry everything,Negative,0
+"The light shone in her eyes, but her heart felt lighter than ever.",Positive,2
+The poor tuning of the piano ruined the performance,Negative,0
+"The cold air made her shiver, but his cold words hurt more.",Negative,0
+"The light breeze felt calming, but she couldn’t lighten the mood of the tense conversation.",Neutral,1
+The constant barking of the neighbor's dog was annoying,Negative,0
+The bow of the ship cut through the waves,Neutral,1
+"The pen was out of ink, so she grabbed a new one",Neutral,1
+The sunset over the mountains was absolutely beautiful,Positive,2
+I hate how much you make me care.,Positive,2
+"The file was corrupted, but she still needed to file the paperwork.",Neutral,1
+The uncomfortable mattress made it impossible to sleep,Negative,0
+Her heartfelt letter brought tears of joy,Positive,2
+"The bear roared in the distance, but she couldn’t bear the fear inside her.",Negative,0
+The bat circled above their heads as night fell,Neutral,1
+You’re terrible at being terrible.,Neutral,1
+"The cold air nipped at her face, but his cold response stung more.",Negative,0
+Your sarcasm is painfully funny.,Neutral,1
+"The wind rattled the windows, and she had to wind the clock.",Neutral,1
+She placed the pitcher on the dining table,Neutral,1
+The right path led them to a beautiful view,Positive,2
+"The bear attack left him terrified, but he couldn't bear the thought of leaving her behind.",Negative,0
+That victory was the sweetest defeat.,Neutral,1
+The student's performance in the exam was exceptional,Positive,2
+The bright orange peel gave the drink flavor,Positive,2
+"The fire warmed the room, but being fired left him cold.",Negative,0
+"The organ music filled the church, but his heart organ was failing.",Negative,0
+"He had to close the door, but the store was already close to shutting down.",Neutral,1
+"She had to firm her stance, even though the firm didn’t support her.",Negative,0
+He wrapped the bandage around his injured hand,Neutral,1
+The pupils in his eyes were dilated,Neutral,1
+The fly landed on his sandwich,Negative,0
+The freshly brewed coffee tasted perfect,Positive,2
+"The company’s stocks fell, and the man decided to stock up on supplies.",Neutral,1
+"The dove flew away, bringing peace.",Positive,2
+The date for the event was moved to next week,Neutral,1
+"The spring came early, but she wasn’t ready to spring into action.",Neutral,1
+"The crane lowered the materials, while the crane in the sky soared higher.",Neutral,1
+The peeling paint made the house look old and neglected,Negative,0
+"She saw the bank rising with the water, but her financial bank was sinking.",Negative,0
+He caught the ball during the game,Neutral,1
+Your mistakes are what make you perfect.,Positive,2
+The fly landed on her food as they watched the fly ball.,Neutral,1
+The spa day was relaxing and helped her recharge,Positive,2
+She promised to book the tickets for the concert,Neutral,1
+She wrapped a bandage around his arm,Neutral,1
+I hate that I can’t hate you enough.,Positive,2
+"The row of houses looked neat, but the row they had earlier still stung.",Negative,0
+The bright light made it hard to see,Negative,0
+"The present was wrapped beautifully, but living in the present felt more important.",Positive,2
+"The calf in the field was calm, but his calf muscle ached after the run.",Neutral,1
+The spilled coffee stained all of her important documents,Negative,0
+"The bow snapped, but she still took a bow at the end of the performance.",Positive,2
+"She loved the bark of the old oak tree, but the dog's bark startled her.",Neutral,1
+"The desert landscape was unforgiving, but she refused to desert her family.",Positive,2
+The nail salon had excellent customer service,Positive,2
+She streamed her favorite show online,Neutral,1
+We enjoyed ice cream in the desert,Positive,2
+"The wave hit the shore hard, but the wave of relief after the test was stronger.",Positive,2
+"The wave crashed on the shore, but the wave of relief was stronger.",Positive,2
+She was excited to eat her favorite dessert,Positive,2
+The dove flew gracefully over the water,Positive,2
+I wish I didn’t care so much about you.,Negative,0
+"The organ music was beautiful, but his heart organ was failing.",Negative,0
+"The crane flew overhead, and the crane operator watched it.",Neutral,1
+The bark of the pine trees smelled amazing in the forest,Positive,2
+The dark clouds overhead made everything feel gloomy,Negative,0
+The bank near the river is a nice place to sit,Neutral,1
+He was the star of the football team,Positive,2
+The loud music next door kept everyone up all night,Negative,0
+"The rose grew tall and strong, but when he rose from the chair, he felt weak.",Positive,2
+I despise the way you only think of yourself.,Negative,0
+The organ played beautifully during the service,Positive,2
+Her surprise visit to her friend was a delightful surprise,Positive,2
+They launched a new campaign for the product,Neutral,1
+His kindness feels like a burden.,Negative,0
+"The wave hit the shore, but the wave of relief afterward was stronger.",Positive,2
+He watched the fly ball soar into the sky,Neutral,1
+He was close to reaching his goal,Positive,2
+She felt light after the long run,Positive,2
+The punch she made was refreshing and fruity,Positive,2
+The light from the candle flickered in the wind,Positive,2
+I love how you never help out,Negative,0
+The fan cooled the room on a hot day,Neutral,1
+The lock on the door was broken,Negative,0
+The handle of the suitcase broke off,Negative,0
+Your affection feels like a burden sometimes.,Neutral,1
+The bag was so light it felt like carrying nothing,Positive,2
+I love how you challenge me to be better.,Positive,2
+"The bat flew through the night, and she gripped the baseball bat tightly.",Neutral,1
+"The firm won the case, but his handshake was far from firm.",Neutral,1
+His artwork was criticized for being too abstract,Negative,0
+Your sarcasm is as sweet as honey.,Neutral,1
+The missed notes during the recital made it hard to listen,Negative,0
+I hope you stay close to home,Positive,2
+The loud bark from the dog startled me,Negative,0
+The heatwave made it impossible to stay outside,Negative,0
+"The leaf fell from the tree, but she had to leave early.",Neutral,1
+"He tried to tie his shoes quickly, but his tie was still crooked for the meeting.",Neutral,1
+She took a bow after her performance,Positive,2
+"The match lit the fire, but the match between them was already over.",Negative,0
+"I can’t live with you, but I can't live without you.",Neutral,1
+He hit the high note perfectly in the performance,Positive,2
+The overcrowded festival made it hard to enjoy anything,Negative,0
+"The crane lifted the beam, while the crane flew by.",Neutral,1
+"He wanted to conduct the experiment, but the orchestra conductor was already taking his place.",Neutral,1
+"The file was corrupted, but she still needed to file her taxes.",Neutral,1
+They had egg on their faces after the embarrassing mistake,Negative,0
+The date for the event was set for next week,Neutral,1
+"The note on the fridge was sweet, but the note she played on the piano was sharp.",Positive,2
+The smell of fresh cookies baking in the oven was irresistible,Positive,2
+Lead poisoning can cause serious health problems,Negative,0
+"She couldn’t bear the silence, while the bear wandered freely.",Negative,0
+"The desert was vast and lonely, but she refused to desert her dreams.",Positive,2
+He was reprimanded for missing the deadline,Negative,0
+Her guitar performance was flawless and captivated the audience,Positive,2
+"The band tightened around her wrist, and the band on stage played louder.",Neutral,1
+The constant bickering between them was exhausting,Negative,0
+The new movie set was built in record time,Neutral,1
+He chose to lead the initiative with passion,Positive,2
+The warm blanket made the cold night bearable,Positive,2
+The dove flew away as she watched with hope for peace.,Positive,2
+"He liked to rock out to loud music, but he gently rocked the baby to sleep.",Neutral,1
+She was asked to lead the committee for the new project,Positive,2
+"The desert was unforgiving, but she refused to desert her dreams.",Positive,2
+She rose from her chair,Neutral,1
+The broken microphone ruined the singer’s performance,Negative,0
+The festival was full of fun activities and happy faces,Positive,2
+The cold front brought chilly weather,Neutral,1
+The bright star in the sky was easy to spot,Positive,2
+The rough waves made swimming dangerous,Negative,0
+The baby's first words were a moment to remember,Positive,2
+She knew how to play the organ beautifully,Positive,2
+The barking dog next door was a constant annoyance,Negative,0
+"She couldn't wait to present her project, but the present she received wasn’t great.",Neutral,1
+The overcrowded festival made it hard to enjoy the event,Negative,0
+She was thrilled to receive the promotion,Positive,2
+The organ played beautifully while he thought about his damaged organ.,Neutral,1
+The dog’s bark was so loud it hurt my ears,Negative,0
+"You make me feel alive, but also lost.",Neutral,1
+He got a flu shot to avoid getting sick,Neutral,1
+The army set up their base camp for the mission,Neutral,1
+The smog in the city made it hard to breathe,Negative,0
+The sunset over the ocean was picture-perfect,Positive,2
+"He was present at the meeting, but didn’t contribute",Neutral,1
+"The bark of the tree was rough, but the dog’s bark was even more jarring.",Neutral,1
+"The bear roared in the woods, but he couldn’t bear the silence at home.",Negative,0
+The spa day left her feeling relaxed and rejuvenated,Positive,2
+"I despise how you manipulate situations to always benefit yourself, leaving others in pain.",Negative,0
+She watched the sunset through her glasses,Positive,2
+"His words wound me deeply, but his actions wound me even more.",Negative,0
+"The cold drink refreshed him, but her cold words stung.",Negative,0
+Her new puppy was the cutest thing she had ever seen,Positive,2
+"The fair had fun rides, but the contract terms weren’t fair.",Negative,0
+His loud yelling made everyone uncomfortable,Negative,0
+The bright idea came to him suddenly,Positive,2
+The charity event was a huge success,Positive,2
+I hate how right you always are.,Negative,0
+Her smile hides so many lies.,Negative,0
+The dirty dishes piled up in the sink were overwhelming,Negative,0
+The birthday surprise made her feel special,Positive,2
+The garden was full of blooming flowers and butterflies,Positive,2
+She had to fish out the keys from her bag,Neutral,1
+"He struck a match to light the fire, just as their tennis match began.",Neutral,1
+The baby’s first steps were a joyful moment for the family,Positive,2
+"She loved the light in the room, but the load felt too light.",Positive,2
+The freezing cold made it hard to enjoy the day,Negative,0
+He was heartbroken after the loss of his pet,Negative,0
